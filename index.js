@@ -21,7 +21,7 @@ async function handleRequest(request) {
     <meta name="copyright" content="This Created by Prathamesh Pawar">
     <meta name="robots" content="all" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.png">
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.svg">
 
   <title>Prathamesh Pawar | ZEE5 Online Player</title>
   <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -44,7 +44,7 @@ body{ background-color:#202020;}
   <center>
  <div class="bar">
 <input type="search" class="searchbar" name="url" value="" placeholder="Enter ZEE5 URL or VIDEO ID" autocomplete="off">
-<a href="https://zee5.com/"> <img class="zee5" src="https://www.zee5.com/images/ZEE5_logo.png" title="Go To ZEE5 Site"></a>
+<a href="https://zee5.com/"> <img class="zee5" src="https://www.zee5.com/images/ZEE5_logo.svg" title="Go To ZEE5 Site"></a>
 </div>
 
 <button  class="button" type="submit" value="" title="Stream And Enjoy !!">
@@ -99,7 +99,7 @@ Stream
     <meta name="copyright" content="This Created by Prathamesh Pawar">
     <meta name="robots" content="all" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.png">
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.svg">
 
   <title>Not Found | Prathamesh Pawar | ZEE5 Online Player and Downloader !!</title>
   <link rel="stylesheet" href="https://avipatilpro.github.io/host/z5style.css">
@@ -125,7 +125,7 @@ body{ background-color:#202020;}
   <center>
  <div class="bar">
 <input type="search" class="searchbar" name="url" value="" placeholder="Enter ZEE5 URL or VIDEO ID" autocomplete="off">
-<a href="https://zee5.com/"> <img class="zee5" src="https://www.zee5.com/images/ZEE5_logo.png" title="Go To ZEE5 Site"></a>
+<a href="https://zee5.com/"> <img class="zee5" src="https://www.zee5.com/images/ZEE5_logo.svg" title="Go To ZEE5 Site"></a>
 </div>
 
 <button  class="button" type="submit" value="" title="Stream And Enjoy !!">
@@ -191,7 +191,7 @@ async function template(title, thumb, hls, vtt_thumbnail_url) {
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-  <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.svg">
   <link rel="stylesheet" href="https://cdn.plyr.io/3.6.2/plyr.css" />
   <link href="https://fonts.googleapis.com/css?family=Poppins|Quattrocento+Sans" rel="stylesheet"/>
   <script src="https://cdn.plyr.io/3.6.3/plyr.js"></script>
@@ -287,7 +287,7 @@ html {
         content: '';
         height: 35px;
         width: 35px;
-        background: url('https://telegra.ph/file/22da4d29204c748a526a4.png') no-repeat;
+        background: url('https://telegra.ph/file/853799435225ec27b235f.jpg') no-repeat;
         background-size: 35px auto, auto;
     }
 
