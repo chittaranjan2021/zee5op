@@ -36,11 +36,11 @@ body{ background-color:#202020;}
 </head>
 <body>
 
-  <h1 style="color:orange; text-align:center; cursor: pointer;"><a href="https://z5.movhdapp.ml/">ZEE5 HLS Streamer </a></h1>
+  <h1 style="color:orange; text-align:center; cursor: pointer;"><a href="https://zee5op.movietrigger.workers.dev/">ZEE5 HLS Streamer </a></h1>
   
 <br><br><h3 style="text-align: center; color: #FFB200; font-family: 'Balsamiq Sans', cursive; font-size: 17px;">👇 Enter Your ZEE5 URL or VIDEO ID Below 👇 <br>And Click On STREAM</h3><br><br><br>
 
-  <div><form method="get"  action="https://z5.movhdapp.ml" _lpchecked="1">
+  <div><form method="get"  action="https://zee5op.movietrigger.workers.dev" _lpchecked="1">
   <center>
  <div class="bar">
 <input type="search" class="searchbar" name="url" value="" placeholder="Enter ZEE5 URL or VIDEO ID" autocomplete="off">
@@ -113,7 +113,7 @@ body{ background-color:#202020;}
 
 </head>
 <body>
-  <h1 style="color:orange; text-align:center; cursor: pointer;"><a href="https://z5.movhdapp.ml/">ZEE5 HLS Streamer </a></h1>
+  <h1 style="color:orange; text-align:center; cursor: pointer;"><a href="https://zee5op.movietrigger.workers.dev/">ZEE5 HLS Streamer </a></h1>
   
 <br><br>
 <p style="color:#0EEEBB; text-align:center;font-family: 'Corben', cursive; font-size: 19px;">⚠️ ERROR NOT FOUND ⚠️</p>
@@ -121,7 +121,7 @@ body{ background-color:#202020;}
 
 <br><br><br>
 
-  <div><form method="get"  action="https://z5.movhdapp.ml" _lpchecked="1">
+  <div><form method="get"  action="https://zee5op.movietrigger.workers.dev" _lpchecked="1">
   <center>
  <div class="bar">
 <input type="search" class="searchbar" name="url" value="" placeholder="Enter ZEE5 URL or VIDEO ID" autocomplete="off">
@@ -303,6 +303,9 @@ html {
     <span class="loading-text-words">H</span>
     <span class="loading-text-words">A</span>
     <span class="loading-text-words">M</span>
+    <span class="loading-text-words">E</span>
+    <span class="loading-text-words">S</span>
+    <span class="loading-text-words">H</span>
 </div>
 </div>
 
