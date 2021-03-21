@@ -56,7 +56,7 @@ Stream
 
 <footer class="footer">
             <div class="container">
-                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://t.me/movietrigger">© 2021 Prathamesh Pawar</a></span>
+                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://www.instagram.com/prathameshpawar1189/">© 2021 Prathamesh Pawar</a></span>
             </div>
         </footer>
 </body>
@@ -136,7 +136,7 @@ Stream
 
 <footer class="footer">
             <div class="container">
-                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://t.me/movietrigger">© 2021 Prathamesh Pawar</a></span>
+                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://www.instagram.com/prathameshpawar1189/">© 2021 Prathamesh Pawar</a></span>
             </div>
         </footer>
 </body>
