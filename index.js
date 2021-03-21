@@ -17,13 +17,13 @@ async function handleRequest(request) {
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="It is a Zee5 Online premium streamer with all features">
-    <meta name="author" content="Avishkar Patil">
-    <meta name="copyright" content="This Created by Avishkar Patil">
+    <meta name="author" content="Prathamesh Pawar">
+    <meta name="copyright" content="This Created by Prathamesh Pawar">
     <meta name="robots" content="all" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.png">
 
-  <title>Avi Patil | ZEE5 Online Player and Downloader !!</title>
+  <title>Prathamesh Pawar | ZEE5 Online Player</title>
   <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://avipatilpro.github.io/host/z5style.css">
@@ -56,7 +56,7 @@ Stream
 
 <footer class="footer">
             <div class="container">
-                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://avipatilweb.me/">© 2021 Avishkar Patil</a></span>
+                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://t.me/movietrigger">© 2021 Prathamesh Pawar</a></span>
             </div>
         </footer>
 </body>
@@ -95,13 +95,13 @@ Stream
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="It is a Zee5 Online premium streamer with all features">
-    <meta name="author" content="Avishkar Patil">
-    <meta name="copyright" content="This Created by Avishkar Patil">
+    <meta name="author" content="Prathamesh Pawar">
+    <meta name="copyright" content="This Created by Prathamesh Pawar">
     <meta name="robots" content="all" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.png">
 
-  <title>Not Found | Avi Patil | ZEE5 Online Player and Downloader !!</title>
+  <title>Not Found | Prathamesh Pawar | ZEE5 Online Player and Downloader !!</title>
   <link rel="stylesheet" href="https://avipatilpro.github.io/host/z5style.css">
   <link rel="stylesheet" href="https://avipatilpro.github.io/host/zstyle.css">
   <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -136,7 +136,7 @@ Stream
 
 <footer class="footer">
             <div class="container">
-                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://avipatilweb.me/">© 2021 Avishkar Patil</a></span>
+                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://t.me/movietrigger">© 2021 Prathamesh Pawar</a></span>
             </div>
         </footer>
 </body>
@@ -149,7 +149,7 @@ Stream
                     "Content-Type": "text/html",
                     "Cache-Control": "no-cache, no-store, must-revalidate",
                     "Access-Control-Allow-Origin": "*",
-                    "Made-By": "https://github.com/avipatilpro/ZEE5/"
+                    "Made-By": "https://github.com/Redop1189"
                 })
             })
         } else {
@@ -164,7 +164,7 @@ Stream
                     "Content-Type": "text/html",
                     "Cache-Control": "no-cache, no-store, must-revalidate",
                     "Access-Control-Allow-Origin": "*",
-                    "Made-By": "https://github.com/avipatilpro/ZEE5/"
+                    "Made-By": "https://github.com/Redop1189"
                 })
             })
         }
@@ -187,7 +187,7 @@ async function template(title, thumb, hls, vtt_thumbnail_url) {
     return `<html>
 
 <head>
-  <title>${title} | Avishkar Patil</title>
+  <title>${title} | Prathamesh Pawar</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -296,14 +296,13 @@ html {
 <body>
   <div id="loading" class="loading">
 <div class="loading-text">
-    <span class="loading-text-words">A</span>
-    <span class="loading-text-words">V</span>
-    <span class="loading-text-words">I</span>
-    <span class="loading-text-words">S</span>
-    <span class="loading-text-words">H</span>
-    <span class="loading-text-words">K</span>
-    <span class="loading-text-words">A</span>
+    <span class="loading-text-words">P</span>
     <span class="loading-text-words">R</span>
+    <span class="loading-text-words">A</span>
+    <span class="loading-text-words">T</span>
+    <span class="loading-text-words">H</span>
+    <span class="loading-text-words">A</span>
+    <span class="loading-text-words">M</span>
 </div>
 </div>
 
