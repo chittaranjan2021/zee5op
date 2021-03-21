@@ -296,13 +296,13 @@ html {
 <body>
   <div id="loading" class="loading">
 <div class="loading-text">
-    <span class="loading-text-words">P</span>
-    <span class="loading-text-words">R</span>
-    <span class="loading-text-words">A</span>
     <span class="loading-text-words">T</span>
-    <span class="loading-text-words">H</span>
-    <span class="loading-text-words">A</span>
-    <span class="loading-text-words">M</span>
+    <span class="loading-text-words">R</span>
+    <span class="loading-text-words">I</span>
+    <span class="loading-text-words">G</span>
+    <span class="loading-text-words">G</span>
+    <span class="loading-text-words">E</span>
+    <span class="loading-text-words">R</span>
 </div>
 </div>
 
