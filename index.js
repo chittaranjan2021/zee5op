@@ -287,7 +287,7 @@ html {
         content: '';
         height: 35px;
         width: 35px;
-        background: url('https://telegra.ph/file/853799435225ec27b235f.jpg') no-repeat;
+        background: url('https://raw.githubusercontent.com/Redop1189/zee5op/6fe0ff34905c39dfc2ed2221e5285d09f1b4e486/PP_Logo_white-01.svg') no-repeat;
         background-size: 35px auto, auto;
     }
 
@@ -303,9 +303,6 @@ html {
     <span class="loading-text-words">H</span>
     <span class="loading-text-words">A</span>
     <span class="loading-text-words">M</span>
-    <span class="loading-text-words">E</span>
-    <span class="loading-text-words">S</span>
-    <span class="loading-text-words">H</span>
 </div>
 </div>
 
