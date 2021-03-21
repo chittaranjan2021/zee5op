@@ -25,7 +25,7 @@ async function handleRequest(request) {
 
   <title>Prathamesh Pawar | ZEE5 Online Player</title>
   <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://avipatilpro.github.io/host/z5style.css">
   <link rel="stylesheet" href="https://avipatilpro.github.io/host/zstyle.css">
 
@@ -36,9 +36,9 @@ body{ background-color:#202020;}
 </head>
 <body>
 
-  <h1 style="color:orange; text-align:center; cursor: pointer;"><a href="https://zee5op.movietrigger.workers.dev/">ZEE5 HLS Streamer </a></h1>
+  <h1 style="color:orange; text-align:center; font-family: 'Poppins', sans-serif; cursor: pointer;"><a href="https://zee5op.movietrigger.workers.dev/">ZEE5 HLS Streamer </a></h1>
   
-<br><br><h3 style="text-align: center; color: #FFB200; font-family: 'Balsamiq Sans', cursive; font-size: 17px;">👇 Enter Your ZEE5 URL or VIDEO ID Below 👇 <br>And Click On STREAM</h3><br><br><br>
+<br><br><h3 style="text-align: center; color: #FFB200; font-family: 'Poppins', sans-serif; cursive; font-size: 17px;">👇 Enter Your ZEE5 URL or VIDEO ID Below 👇 <br>And Click On STREAM</h3><br><br><br>
 
   <div><form method="get"  action="https://zee5op.movietrigger.workers.dev" _lpchecked="1">
   <center>
