@@ -36,11 +36,11 @@ body{ background-color:#202020;}
 </head>
 <body>
 
-  <h1 style="color:orange; text-align:center; font-family: 'Poppins', sans-serif; cursor: pointer;"><a href="https://zee5op.movietrigger.workers.dev/">ZEE5 HLS Streamer </a></h1>
+  <h1 style="color:orange; text-align:center; font-family: 'Poppins', sans-serif; cursor: pointer;"><a href="https://zee5.movietrigger.workers.dev/">ZEE5 Streamer </a></h1>
   
 <br><br><h3 style="text-align: center; color: #FFB200; font-family: 'Poppins', sans-serif; cursive; font-size: 17px;">👇 Enter Your ZEE5 URL or VIDEO ID Below 👇 <br>And Click On STREAM</h3><br><br><br>
 
-  <div><form method="get"  action="https://zee5op.movietrigger.workers.dev" _lpchecked="1">
+  <div><form method="get"  action="https://zee5.movietrigger.workers.dev" _lpchecked="1">
   <center>
  <div class="bar">
 <input type="search" class="searchbar" name="url" value="" placeholder="Enter ZEE5 URL or VIDEO ID" autocomplete="off">
@@ -50,7 +50,8 @@ body{ background-color:#202020;}
 <button  class="button" type="submit" value="" title="Stream And Enjoy !!">
 Stream
 </button>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
+  <h3 style="text-align: center; color: #FFB200; font-family: 'Poppins', cursive; font-size: 17px;"> This Project is Made By <br>🚀 Prathamesh Pawar 😉</h3>
 
 
 
@@ -113,7 +114,7 @@ body{ background-color:#202020;}
 
 </head>
 <body>
-  <h1 style="color:orange; text-align:center; cursor: pointer;"><a href="https://zee5op.movietrigger.workers.dev/">ZEE5 HLS Streamer </a></h1>
+  <h1 style="color:orange; text-align:center; cursor: pointer;"><a href="https://zee5.movietrigger.workers.dev/">ZEE5 HLS Streamer </a></h1>
   
 <br><br>
 <p style="color:#0EEEBB; text-align:center;font-family: 'Corben', cursive; font-size: 19px;">⚠️ ERROR NOT FOUND ⚠️</p>
@@ -121,7 +122,7 @@ body{ background-color:#202020;}
 
 <br><br><br>
 
-  <div><form method="get"  action="https://zee5op.movietrigger.workers.dev" _lpchecked="1">
+  <div><form method="get"  action="https://zee5.movietrigger.workers.dev" _lpchecked="1">
   <center>
  <div class="bar">
 <input type="search" class="searchbar" name="url" value="" placeholder="Enter ZEE5 URL or VIDEO ID" autocomplete="off">
@@ -287,7 +288,7 @@ html {
         content: '';
         height: 35px;
         width: 35px;
-        background: url('https://raw.githubusercontent.com/Redop1189/zee5op/6fe0ff34905c39dfc2ed2221e5285d09f1b4e486/PP_Logo_white-01.svg') no-repeat;
+        background: url('https://raw.githubusercontent.com/Redop1189/zee5/6fe0ff34905c39dfc2ed2221e5285d09f1b4e486/PP_Logo_white-01.svg') no-repeat;
         background-size: 35px auto, auto;
     }
 
