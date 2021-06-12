@@ -19,8 +19,8 @@
         "zee5 online player",
         "zee5 downloader"
     ],
-    "author": "Avishkar Patil",
-    "license": "Custom Lisence",
+    "author": "Prathamesh Pawar",
+    "license": "Apache-2.0",
     "bugs": {
         "url": "https://github.com/avipatilpro/ZEE5/issues"
     },
