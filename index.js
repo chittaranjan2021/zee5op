@@ -11,55 +11,47 @@ async function handleRequest(request) {
    // Home Page Data and Input Box
 
     const html = `<!DOCTYPE html>
-    <html>
+<html lang="en">
 <head>
-<meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="It is a Zee5 Online premium streamer with all features">
     <meta name="author" content="Prathamesh Pawar">
     <meta name="copyright" content="This Created by Prathamesh Pawar">
     <meta name="robots" content="all" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.svg">
-
-  <title>Prathamesh Pawar | ZEE5 Online Player</title>
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://avipatilpro.github.io/host/z5style.css">
-  <link rel="stylesheet" href="https://avipatilpro.github.io/host/zstyle.css">
-
-<style>
-body{ background-color:#202020;}
-</style>
-
+    <title>Prathamesh Pawar | ZEE5 Online Player</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Redop1189/cdn/streaming/zstyle.css">
+    <!-- <link rel="stylesheet" href="zstyle.css"> -->
 </head>
 <body>
-
-  <h1 style="color:orange; text-align:center; font-family: 'Poppins', sans-serif; cursor: pointer;"><a href="https://zee5.movietrigger.workers.dev/">ZEE5 Streamer </a></h1>
-  
-<br><br><h3 style="text-align: center; color: #FFB200; font-family: 'Poppins', sans-serif; cursive; font-size: 17px;"> Enter Your ZEE5 URL or VIDEO ID Below 👇 <br>And Click On STREAM</h3><br><br><br>
-
-  <div><form method="get"  action="https://zee5.movietrigger.workers.dev" _lpchecked="1">
-  <center>
- <div class="bar">
-<input type="search" class="searchbar" name="url" value="" placeholder="Enter ZEE5 URL or VIDEO ID" autocomplete="off">
-<a href="https://zee5.com/"> <img class="zee5" src="https://www.zee5.com/images/ZEE5_logo.svg" title="Go To ZEE5 Site"></a>
-</div>
-
-<button  class="button" type="submit" value="" title="Stream And Enjoy !!">
-Stream
-</button>
-<br><br><br><br><br><br><br>
-  <h3 style="text-align: center; color: #FFB200; font-family: 'Poppins', sans-serif; cursive; font-size: 17px;"> This Project is Made By <br>🚀 Prathamesh Pawar 😉</h3>
-
-
-
-<footer class="footer">
-            <div class="container">
-                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://www.instagram.com/prathameshpawar1189/">© 2021 Prathamesh Pawar</a></span>
+    <div class="container">
+        <nav>
+            <img src="https://cdn.jsdelivr.net/gh/Redop1189/cdn/streaming/zee5.svg" alt="Zee5 logo">
+            <div class="right-nav">
+                <img src="https://cdn.jsdelivr.net/gh/Redop1189/cdn/streaming/zee5-premium.svg" alt="zee5 Premium Logo">
+                <h2>ZEE5 Premium</h2>
             </div>
-        </footer>
+        </nav>
+        <h1>ZEE5</h1>
+        <!-- <h1><span>ERROR</span></h1> -->
+        <div class="error">
+            <h4>Something went wrong</h4>
+            <h3>Please Check Your ZEE5 URL or VIDEO ID</h3>
+        </div>
+        <div class="search-box">
+            <form method="get"  action="https://zee.zee5op.workers.dev" _lpchecked="1">
+            <input type="search" class="searchbar" name="url" value="" placeholder="Enter ZEE5 URL or VIDEO ID" autocomplete="off">
+            <button class="button" type="submit" value="" title="Stream And Enjoy !!">Stream</button>
+        </div>
+        <div class="info-box">
+            <h3>Watch all premium content free from Zee5 without any hassle</h3>
+            <p>No video files are stored in this website. The website simply contains user-submitted links to publicly available video stream URLs,  which to the best of our knowledge have been intentionally made public. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending request.</p>
+            <a href="https://www.instagram.com/prathameshpawar1189/">© 2021 Prathamesh Pawar</a>
+        </div>
+    </div>
 </body>
 </html>`
 
@@ -90,59 +82,50 @@ Stream
         // Error 400 Code 
 
         const erhtml = `<!DOCTYPE html>
-    <html>
+<html lang="en">
 <head>
-<meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="It is a Zee5 Online premium streamer with all features">
     <meta name="author" content="Prathamesh Pawar">
     <meta name="copyright" content="This Created by Prathamesh Pawar">
     <meta name="robots" content="all" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.svg">
-
-  <title>Not Found | Prathamesh Pawar | ZEE5 Online Player and Downloader !!</title>
-  <link rel="stylesheet" href="https://avipatilpro.github.io/host/z5style.css">
-  <link rel="stylesheet" href="https://avipatilpro.github.io/host/zstyle.css">
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Mali:wght@300&display=swap" rel="stylesheet">
-
-<style>
-body{ background-color:#202020;}
-</style>
-
+    <title>Prathamesh Pawar | ZEE5 Online Player</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Redop1189/cdn/streaming/zstyle.css">
+    <!-- <link rel="stylesheet" href="zstyle.css"> -->
 </head>
 <body>
-  <h1 style="color:orange; text-align:center; cursor: pointer;"><a href="https://zee5.movietrigger.workers.dev/">ZEE5 HLS Streamer </a></h1>
-  
-<br><br>
-<p style="color:#0EEEBB; text-align:center;font-family: 'Corben', cursive; font-size: 19px;">⚠️ ERROR NOT FOUND ⚠️</p>
-<h3 style="text-align: center; color: #FFB200; font-family: 'Mali', cursive; font-size: 17px;">Please Check Your ZEE5 URL or VIDEO ID </h3>
-
-<br><br><br>
-
-  <div><form method="get"  action="https://zee5.movietrigger.workers.dev" _lpchecked="1">
-  <center>
- <div class="bar">
-<input type="search" class="searchbar" name="url" value="" placeholder="Enter ZEE5 URL or VIDEO ID" autocomplete="off">
-<a href="https://zee5.com/"> <img class="zee5" src="https://www.zee5.com/images/ZEE5_logo.svg" title="Go To ZEE5 Site"></a>
-</div>
-
-<button  class="button" type="submit" value="" title="Stream And Enjoy !!">
-Stream
-</button>
-<br><br><br><br>
-
-
-<footer class="footer">
-            <div class="container">
-                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://www.instagram.com/prathameshpawar1189/">© 2021 Prathamesh Pawar</a></span>
+    <div class="container">
+        <nav>
+            <img src="https://cdn.jsdelivr.net/gh/Redop1189/cdn/streaming/zee5.svg" alt="Zee5 logo">
+            <div class="right-nav">
+                <img src="https://cdn.jsdelivr.net/gh/Redop1189/cdn/streaming/zee5-premium.svg" alt="zee5 Premium Logo">
+                <h2>ZEE5 Premium</h2>
             </div>
-        </footer>
+        </nav>
+        <h1><span>ERROR</span></h1>
+        <div style="display: block;" class="error">
+            <h4>Something went wrong</h4>
+            <h3>Please Check Your ZEE5 URL or VIDEO ID</h3>
+        </div>
+        <div class="search-box">
+            <form method="get"  action="https://zee.zee5op.workers.dev" _lpchecked="1">
+            <input type="search" class="searchbar" name="url" value="" placeholder="Enter ZEE5 URL or VIDEO ID" autocomplete="off">
+            <button class="button" type="submit" value="" title="Stream And Enjoy !!">Stream</button>
+        </div>
+        <div class="info-box">
+            <h3>Watch all premium content free from Zee5 without any hassle</h3>
+            <p>No video files are stored in this website. The website simply contains user-submitted links to publicly available video stream URLs,  which to the best of our knowledge have been intentionally made public. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending request.</p>
+            <a href="https://www.instagram.com/prathameshpawar1189/">© 2021 Prathamesh Pawar</a>
+        </div>
+    </div>
 </body>
 </html>`
 
+        
         if (mainFetch.title == undefined) {
             return new Response(erhtml, {
                 status: 400,
@@ -288,7 +271,7 @@ html {
         content: '';
         height: 35px;
         width: 35px;
-        background: url('https://raw.githubusercontent.com/Redop1189/zee5/6fe0ff34905c39dfc2ed2221e5285d09f1b4e486/PP_Logo_white-01.svg') no-repeat;
+        background: url('https://cdn.jsdelivr.net/gh/Redop1189/cdn/streaming/PP_Logo_white.svg') no-repeat;
         background-size: 35px auto, auto;
     }
 
