@@ -1,28 +1,26 @@
 {
-    "name": "ZEE",
-    "version": "2.0.1",
+    "name": "ZEE5",
+    "version": "1.0.0",
     "description": "The Online ZEE5 Player and Downloader with Premium and Free Content With All Facality and Customizable Player ",
     "main": "index.js",
     "root": "public",
     "error_page": "index.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/avipatilpro/ZEE5.git"
+        "url": "git+https://github.com/Redop1189/zee5op.git"
     },
     "keywords": [
         "zee5",
         "streamer",
         "zee5 player",
         "zee5 premium",
-        "avi patil",
         "hls player",
-        "zee5 online player",
-        "zee5 downloader"
+        "zee5 online player"
     ],
     "author": "Prathamesh Pawar",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/avipatilpro/ZEE5/issues"
+        "url": "https://github.com/Redop1189/zee5op/issues"
     },
-    "homepage": "https://github.com/avipatilpro/ZEE5"
+    "homepage": "https://github.com/Redop1189/zee5op"
 }
