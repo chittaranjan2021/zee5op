@@ -25,7 +25,7 @@ async function handleRequest(request) {
     <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.svg">
     <title>Prathamesh Pawar | ZEE5 Online Player</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Redop1189/cdn/streaming/zstyle.css">
-    <!-- <link rel="stylesheet" href="zstyle.css"> -->
+    <link rel="image_src" href="https://www.zee5.com/images/ZEE5_logo.svg" />
 </head>
 <body>
     <div class="container">
