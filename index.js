@@ -21,22 +21,23 @@ async function handleRequest(request) {
     <meta name="copyright" content="This Created by Prathamesh Pawar">
     <meta name="robots" content="all" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta property="og:image" content="https://www.zee5.com/images/ZEE5_logo.svg" />
+    <meta property="og:image" content="https://cdn.jsdelivr.net/gh/Redop1189/cdn/logos/Harry_Potter.jpg" />
     <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.svg">
     <title>Prathamesh Pawar | ZEE5 Online Player</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Redop1189/cdn/streaming/zstyle.css">
-    <link rel="image_src" href="https://www.zee5.com/images/ZEE5_logo.svg" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Redop1189/cdn/streaming/zstyle1.css">
 </head>
 <body>
     <div class="container">
         <nav>
-            <img src="https://cdn.jsdelivr.net/gh/Redop1189/cdn/streaming/zee5.svg" alt="Zee5 logo">
+            <a href="https://www.zee5.com/" title="Visit zee5 Official site" target="_blank">
+                <img src="https://cdn.jsdelivr.net/gh/Redop1189/cdn/streaming/zee5.svg" alt="Zee5 logo">
+            </a>
             <div class="right-nav">
                 <img src="https://cdn.jsdelivr.net/gh/Redop1189/cdn/streaming/zee5-premium.svg" alt="zee5 Premium Logo">
                 <h2>ZEE5 Premium</h2>
             </div>
         </nav>
-        <h1>ZEE5</h1>
+        <h1><a href="https://www.zee5.com/" title="Visit zee5 Official site" target="_blank">ZEE5</a></h1>
         <!-- <h1><span>ERROR</span></h1> -->
         <div class="error">
             <h4>Something went wrong</h4>
@@ -95,7 +96,7 @@ async function handleRequest(request) {
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.svg">
     <title>Prathamesh Pawar | ZEE5 Online Player</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Redop1189/cdn/streaming/zstyle.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Redop1189/cdn/streaming/zstyle1.css">
     <!-- <link rel="stylesheet" href="zstyle.css"> -->
 </head>
 <body>
