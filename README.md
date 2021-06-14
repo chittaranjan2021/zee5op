@@ -1,8 +1,8 @@
 <h1 align="center">📺 ZEE5 Streamer 😉</h1>
 
-<p align="center"> ⚒ It can Stream The ZEE5 Movies , TV SHows and Series All content <br> In Online HLS Player !!</p>
+<p align="center"> ⚒ It can Stream The ZEE5 Movies , TV SHows and Series All content <br> In Online HLS Player</p>
 <br>
-<h3 align="center"> Use This : https://zee5.movietrigger.workers.dev </h3><br>
+<h3 align="center"> Use This : https://zee.zee5op.workers.dev </h3><br>
 <h2> Features :</h2>
 
 ‣ Online HLS Player With all Features <br>
@@ -20,8 +20,8 @@
 ‣ Copy The URL From URL Box Like below <br><br>
    <tt>https://www.zee5.com/zee5originals/details/lalbazaar/0-6-2177/ep-1-sleepless-in-kolkata/0-1-manual_6a651ie4f1f0</tt> <br><br>
 ‣ Here From Above Link Copy Video ID  --> <code> 0-1-manual_6a651ie4f1f0</code> <br><br>
-‣ Paste URL After This --> <tt>https://zee5.movietrigger.workers.dev?url=YOUR_ID_HERE</tt><br><br>   
-‣ Paste Video ID After <tt>https://zee5.movietrigger.workers.dev/0-1-manual_6a651ie4f1f0</tt> <br><br>
+‣ Paste URL After This --> <tt>https://zee.zee5op.workers.dev/?url=YOUR_ID_HERE</tt><br><br>   
+‣ Paste Video ID After <tt>https://zee.zee5op.workers.dev/0-1-manual_6a651ie4f1f0</tt> <br><br>
 ‣ Run This URL and Play And Enjoy !!  
 
 </h4><br>
@@ -33,21 +33,14 @@
 
 <h4>
 ‣ Copy URL From ZEE5 👇 <br><br>
-‣ Paste URL After This --> <tt>https://zee5.movietrigger.workers.dev?url=YOUR_URL_HERE</tt><br><br>
+‣ Paste URL After This --> <tt>https://zee.zee5op.workers.dev/?url=YOUR_URL_HERE</tt><br><br>
 ‣ RUN Final URL and Enjoy !!  <br>
 
 </h4>
 
 <br><br>
 
----
-
-<h2> Telegram Bot based on this </h2>
-<h4>
-Go to <a href="https://telegram.me/zee5x_bot">ZEE5 Streaming Bot</a> OR search @zee5x_bot in telegram.
-</h4>
----
 
 <h2> Where To Host : </h2>
 
-<h5 align="center"> Copy The worker.js code and Host on CloudFlare Workers or Use https://zee5.movietrigger.workers.dev
+<h5 align="center"> Copy The worker.js code and Host on CloudFlare Workers or Use https://zee.zee5op.workers.dev
