@@ -21,6 +21,7 @@ async function handleRequest(request) {
     <meta name="copyright" content="This Created by Prathamesh Pawar">
     <meta name="robots" content="all" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta property="og:image" content="https://www.zee5.com/images/ZEE5_logo.svg" />
     <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.svg">
     <title>Prathamesh Pawar | ZEE5 Online Player</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Redop1189/cdn/streaming/zstyle.css">
@@ -42,7 +43,7 @@ async function handleRequest(request) {
             <h3>Please Check Your ZEE5 URL or VIDEO ID</h3>
         </div>
         <div class="search-box">
-            <form method="get"  action="https://zee.zee5op.workers.dev" _lpchecked="1">
+            <form method="get"  action="/" _lpchecked="1">
             <input type="search" class="searchbar" name="url" value="" placeholder="Enter ZEE5 URL or VIDEO ID" autocomplete="off">
             <button class="button" type="submit" value="" title="Stream And Enjoy !!">Stream</button>
         </div>
