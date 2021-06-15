@@ -24,7 +24,7 @@ async function handleRequest(request) {
     <meta property="og:image" content="https://cdn.jsdelivr.net/gh/Redop1189/cdn/logos/Harry_Potter.jpg" />
     <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.svg">
     <title>Prathamesh Pawar | ZEE5 Online Player</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Redop1189/cdn/streaming/zstyle1.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Redop1189/cdn/streaming/zstyle2.css">
 </head>
 <body>
     <div class="container">
@@ -49,7 +49,8 @@ async function handleRequest(request) {
             <button class="button" type="submit" value="" title="Stream And Enjoy !!">Stream</button>
         </div>
         <div class="info-box">
-            <h3>Watch all premium content free from Zee5 without any hassle</h3>
+            <h3>Watch all Premium content<small>*</small> free from Zee5 without any hassle</h3>
+            <h4><small>*</small>Currently DRM & ZEEPLEX content not supported<br>Working on it</h4>
             <p>No video files are stored in this website. The website simply contains user-submitted links to publicly available video stream URLs,  which to the best of our knowledge have been intentionally made public. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending request.</p>
             <a href="https://www.instagram.com/prathameshpawar1189/">© 2021 Prathamesh Pawar</a>
         </div>
@@ -96,7 +97,7 @@ async function handleRequest(request) {
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.svg">
     <title>Prathamesh Pawar | ZEE5 Online Player</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Redop1189/cdn/streaming/zstyle1.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Redop1189/cdn/streaming/zstyle2.css">
     <!-- <link rel="stylesheet" href="zstyle.css"> -->
 </head>
 <body>
@@ -119,7 +120,8 @@ async function handleRequest(request) {
             <button class="button" type="submit" value="" title="Stream And Enjoy !!">Stream</button>
         </div>
         <div class="info-box">
-            <h3>Watch all premium content free from Zee5 without any hassle</h3>
+            <h3>Watch all Premium content<small>*</small> free from Zee5 without any hassle</h3>
+            <h4><small>*</small>Currently DRM & ZEEPLEX content not supported<br>Working on it</h4>
             <p>No video files are stored in this website. The website simply contains user-submitted links to publicly available video stream URLs,  which to the best of our knowledge have been intentionally made public. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending request.</p>
             <a href="https://www.instagram.com/prathameshpawar1189/">© 2021 Prathamesh Pawar</a>
         </div>
