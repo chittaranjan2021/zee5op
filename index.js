@@ -17,8 +17,8 @@ async function handleRequest(request) {
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="It is a Zee5 Online premium streamer with all features">
-    <meta name="author" content="Prathamesh Pawar">
-    <meta name="copyright" content="This Created by Prathamesh Pawar">
+    <meta name="author" content="Chittaranjan Maharana">
+    <meta name="copyright" content="This Created by Chittaranjan Maharana">
     <meta name="robots" content="all" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta property="og:image" content="https://cdn.jsdelivr.net/gh/Redop1189/cdn/logos/Harry_Potter.jpg" />
@@ -52,7 +52,7 @@ async function handleRequest(request) {
             <h3>Watch all Premium content<small>*</small> free from Zee5 without any hassle</h3>
             <h4><small>*</small>Currently DRM & ZEEPLEX content not supported<br>Working on it</h4>
             <p>No video files are stored in this website. The website simply contains user-submitted links to publicly available video stream URLs,  which to the best of our knowledge have been intentionally made public. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending request.</p>
-            <a href="https://www.instagram.com/prathameshpawar1189/">© 2021 Prathamesh Pawar</a>
+            <a href="https://zee5.com">© 2021 Chittaranjan Maharana</a>
         </div>
     </div>
 </body>
@@ -91,8 +91,8 @@ async function handleRequest(request) {
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="It is a Zee5 Online premium streamer with all features">
-    <meta name="author" content="Prathamesh Pawar">
-    <meta name="copyright" content="This Created by Prathamesh Pawar">
+    <meta name="author" content="Chittaranjan Maharana">
+    <meta name="copyright" content="This Created by Chittaranjan Maharana">
     <meta name="robots" content="all" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.svg">
