@@ -115,7 +115,7 @@ async function handleRequest(request) {
             <h3>Please Check Your ZEE5 URL or VIDEO ID</h3>
         </div>
         <div class="search-box">
-            <form method="get"  action="https://zee.zee5op.workers.dev" _lpchecked="1">
+            <form method="get"  action="https://zee5play.herokuapp.com" _lpchecked="1">
             <input type="search" class="searchbar" name="url" value="" placeholder="Enter ZEE5 URL or VIDEO ID" autocomplete="off">
             <button class="button" type="submit" value="" title="Stream And Enjoy !!">Stream</button>
         </div>
@@ -123,7 +123,7 @@ async function handleRequest(request) {
             <h3>Watch all Premium content<small>*</small> free from Zee5 without any hassle</h3>
             <h4><small>*</small>Currently DRM & ZEEPLEX content not supported<br>Working on it</h4>
             <p>No video files are stored in this website. The website simply contains user-submitted links to publicly available video stream URLs,  which to the best of our knowledge have been intentionally made public. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending request.</p>
-            <a href="https://www.instagram.com/prathameshpawar1189/">© 2021 Prathamesh Pawar</a>
+            <a href="https://www.instagram.com/prathameshpawar1189/">© 2021 Chittaranjan Maharana</a>
         </div>
     </div>
 </body>
@@ -284,13 +284,13 @@ html {
 <body>
   <div id="loading" class="loading">
 <div class="loading-text">
-    <span class="loading-text-words">T</span>
-    <span class="loading-text-words">R</span>
+    <span class="loading-text-words">C</span>
+    <span class="loading-text-words">H</span>
     <span class="loading-text-words">I</span>
-    <span class="loading-text-words">G</span>
-    <span class="loading-text-words">G</span>
-    <span class="loading-text-words">E</span>
-    <span class="loading-text-words">R</span>
+    <span class="loading-text-words">T</span>
+    <span class="loading-text-words">T</span>
+    <span class="loading-text-words">A</span>
+    <span class="loading-text-words">(*_*)</span>
 </div>
 </div>
 
